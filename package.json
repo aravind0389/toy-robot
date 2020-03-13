@@ -1,0 +1,19 @@
+{
+  "name": "toy_robot",
+  "version": "1.0.0",
+  "description": "Toy Robot Simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Aravind",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.1.1",
+    "expect.js": "^0.3.1",
+    "inquirer": "^7.0.6"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  }
+}
